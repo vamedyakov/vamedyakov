@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/vladimirmedyakov/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/booldir/">
+    <a href="https://www.instagram.com/v_mediakov/">
       <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
