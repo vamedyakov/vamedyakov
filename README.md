@@ -47,8 +47,7 @@ I am a Senior Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vamedyakov&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=vamedyakov&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **vamedyakov/vamedyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
